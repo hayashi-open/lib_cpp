@@ -2,8 +2,6 @@
 ABC165-C AC
 https://atcoder.jp/contests/abc165/tasks/abc165_c
 深さ優先探索 : 数列を生成する
-セルフ解説
-https://o-treetree.hatenablog.com/entry/20200516dfs
 */
 
 /*
